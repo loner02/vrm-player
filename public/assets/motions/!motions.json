@@ -1,0 +1,49 @@
+{
+	"motions": [
+		{
+			"name": "Idle",
+			"url": [
+                "/assets/motions/WAIT00.bvh",
+                "/assets/motions/WAIT01.bvh",
+                "/assets/motions/WAIT02.bvh",
+                "/assets/motions/WAIT03.bvh",
+                "/assets/motions/WAIT04.bvh"
+            ],
+			"format": "BVH"
+		},
+		{
+			"name": "Run",
+			"url": "/assets/motions/RUN00.bvh",
+			"format": "BVH"
+		},
+		{
+			"name": "Jump",
+			"url": "/assets/motions/JUMP00.bvh",
+			"format": "BVH"
+		},
+		{
+			"name": "Walk",
+			"url": "/assets/motions/WALK00.bvh",
+			"format": "BVH"
+		},
+		{
+			"name": "Bellydance",
+			"url": "https://cdn.glitch.com/3aab6bc9-e20d-4689-98cc-1b114af7f83a%2FBellydancing.fbx?v=1623980584336",
+			"format": "FBX"
+		},
+        {
+            "name": "Conqueror",
+            "url": "https://cdn.glitch.com/3aab6bc9-e20d-4689-98cc-1b114af7f83a%2FIA_Conqueror.vmd?v=1623980878621",
+            "audio": "https://cdn.glitch.com/3aab6bc9-e20d-4689-98cc-1b114af7f83a%2FIA_Conqueror.mp3?v=1623981356086",
+            "camera": "https://cdn.glitch.com/3aab6bc9-e20d-4689-98cc-1b114af7f83a%2FIA_Conqueror%20Cam.vmd?v=1623980925263",
+            "format": "VMD"
+        },
+        {
+            "name": "Bad Romance",
+            "url": "https://cdn.glitch.com/3aab6bc9-e20d-4689-98cc-1b114af7f83a%2FBad%20Romance.vmd?v=1623981483124",
+            "camera": "https://cdn.glitch.com/3aab6bc9-e20d-4689-98cc-1b114af7f83a%2FBad%20Romance%20Cam.vmd?v=1623981531497",
+            "audio": "https://cdn.glitch.com/3aab6bc9-e20d-4689-98cc-1b114af7f83a%2FBad%20Romance.mp3?v=1623981594487",
+            "format": "VMD"
+        }
+	]
+}

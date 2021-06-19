@@ -1,0 +1,86 @@
+{
+    "name"  : "Unity-chan",
+	"adjust" : [-1, 1, -1, 1],
+        
+    "bones" : {
+        "Character1_Hips" : 			"Hips",
+	    "Character1_Spine" : 			"Spine",
+	    "Character1_Spine1" : 			"Chest",
+	    "Character1_Spine2" : 			"UpperChest",
+	    "Character1_Neck" : 			"Neck",
+	    "Character1_Head" : 			"Head", 
+
+	    "Character1_LeftShoulder" : 	"LeftShoulder",
+	    "Character1_LeftArm" : 			"LeftUpperArm", 
+	    "Character1_LeftForeArm" : 		"LeftLowerArm",
+	    "Character1_LeftHand" : 		"LeftHand",
+
+	    "Character1_RightShoulder" : 	"RightShoulder",
+	    "Character1_RightArm" : 		"RightUpperArm",
+	    "Character1_RightForeArm" : 	"RightLowerArm",
+    	"Character1_RightHand" : 		"RightHand",
+
+	    "Character1_LeftUpLeg" : 		"LeftUpperLeg",
+    	"Character1_LeftLeg" : 			"LeftLowerLeg",
+	    "Character1_LeftFoot" : 		"LeftFoot", 
+	    "Character1_LeftToeBase" : 		"LeftToes",
+
+	    "Character1_RightUpLeg" : 		"RightUpperLeg",
+	    "Character1_RightLeg" : 		"RightLowerLeg",
+	    "Character1_RightFoot" : 		"RightFoot", 
+	    "Character1_RightToeBase" : 	"RightToes",
+	    
+	    "Character1_LeftHandThumb1" : 	"LeftThumb1",
+	    "Character1_LeftHandThumb2" : 	"LeftThumb2",
+	    "Character1_LeftHandThumb3" : 	"LeftThumb3",
+	    
+	    "Character1_LeftHandIndex1" : 	"LeftIndex1",
+	    "Character1_LeftHandIndex2" : 	"LeftIndex2",
+	    "Character1_LeftHandIndex3" : 	"LeftIndex3",
+	    
+	    "Character1_LeftHandMiddle1" : 	"LeftMiddle1",
+	    "Character1_LeftHandMiddle2" : 	"LeftMiddle2",
+	    "Character1_LeftHandMiddle3" : 	"LeftMiddle3",
+	    
+	    "Character1_LeftHandRing1" : 	"LeftRing1",
+	    "Character1_LeftHandRing2" : 	"LeftRing2",
+	    "Character1_LeftHandRing3" : 	"LeftRing3",
+	    
+	    "Character1_LeftHandPinky1" : 	"LeftLittle1",
+	    "Character1_LeftHandPinky2" : 	"LeftLittle2",
+	    "Character1_LeftHandPinky3" : 	"LeftLittle3",	
+	    
+	    "Character1_RightHandThumb1" : 	"RightThumb1",
+	    "Character1_RightHandThumb2" : 	"RightThumb2",
+	    "Character1_RightHandThumb3" : 	"RightThumb3",
+	    
+	    "Character1_RightHandIndex1" : 	"RightIndex1",
+	    "Character1_RightHandIndex2" : 	"RightIndex2",
+	    "Character1_RightHandIndex3" : 	"RightIndex3",
+	    
+	    "Character1_RightHandMiddle1" : "RightMiddle1",
+	    "Character1_RightHandMiddle2" : "RightMiddle2",
+	    "Character1_RightHandMiddle3" : "RightMiddle3",
+	    
+	    "Character1_RightHandRing1" : 	"RightRing1",
+	    "Character1_RightHandRing2" : 	"RightRing2",
+	    "Character1_RightHandRing3" : 	"RightRing3",
+	    
+	    "Character1_RightHandPinky1" : 	"RightLittle1",
+	    "Character1_RightHandPinky2" : 	"RightLittle2",
+	    "Character1_RightHandPinky3" : 	"RightLittle3",
+		
+		"J_L_Mune_00" : 				"LeftBust1",
+		"J_L_Mune_01" : 				"LeftBust2",
+		"J_L_Mune_02" : 				"LeftBust3",
+
+		"J_R_Mune_00" : 				"RightBust1",
+		"J_R_Mune_01" : 				"RightBust2",
+		"J_R_Mune_02" : 				"RightBust3"
+
+    }
+   
+}
+
+
+

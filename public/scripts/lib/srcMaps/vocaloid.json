@@ -1,0 +1,162 @@
+{
+    "name"  : "Vocaloid",
+    "adjust" : [-1, 1, 1, -1],
+        
+    "bones" : {
+        "全ての親" :                    "Root",
+        "センター" :                    "Center",
+        "グルーブ" :                    "Groove",
+        "腰" :                          "Waist",
+
+        "下半身" : 				        "Hips",
+	    "上半身" : 			            "Spine",
+	    "上半身２" :		            "Chest",
+	    "首" : 				            "Neck",
+	    "頭" : 				            "Head", 
+
+        "両目" :                        "Eyes",
+		"左目" :			            "LeftEye",
+		"右目" :			            "RightEye",
+
+	    "左肩" : 		                "LeftShoulder",
+	    "左腕" : 			            "LeftUpperArm", 
+	    "左ひじ" : 		                "LeftLowerArm",
+	    "左手首" : 			            "LeftHand",
+
+	    "右肩" : 	                    "RightShoulder",
+	    "右腕" :             			"RightUpperArm",
+	    "右ひじ" :               		"RightLowerArm",
+    	"右手首" :               		"RightHand",
+
+	    "左足" : 		                "LeftUpperLeg",
+    	"左ひざ" : 			            "LeftLowerLeg",
+	    "左足首" : 			            "LeftFoot", 
+	    "左つま先" : 		            "LeftToes",
+
+	    "右足" :                		"RightUpperLeg",
+	    "右ひざ" : 	            		"RightLowerLeg",
+	    "右足首" :              		"RightFoot", 
+	    "右つま先" :            		"RightToes",
+	    
+	    "左親指０" : 	                "LeftThumb1",
+	    "左親指１" : 	                "LeftThumb2",
+	    "左親指２" : 	                "LeftThumb3",
+	    
+	    "左人指１" : 	                "LeftIndex1",
+	    "左人指２" : 	                "LeftIndex2",
+	    "左人指３" : 	                "LeftIndex3",
+	    
+	    "左中指１" : 	                "LeftMiddle1",
+	    "左中指２" : 	                "LeftMiddle2",
+	    "左中指３" : 	                "LeftMiddle3",
+	    
+	    "左薬指１" : 	                "LeftRing1",
+	    "左薬指２" : 	                "LeftRing2",
+	    "左薬指３" : 	                "LeftRing3",
+	    
+	    "左小指１" : 	                "LeftLittle1",
+	    "左小指２" : 	                "LeftLittle2",
+	    "左小指３" : 	                "LeftLittle3",	
+	    
+	    "右親指０" :                	"RightThumb1",
+	    "右親指１" :                 	"RightThumb2",
+	    "右親指２" :                	"RightThumb3",
+	    
+	    "右人指１" :                	"RightIndex1",
+	    "右人指２" :                	"RightIndex2",
+	    "右人指３" :                	"RightIndex3",
+	    
+	    "右中指１" :                    "RightMiddle1",
+	    "右中指２" :                    "RightMiddle2",
+	    "右中指３" :                    "RightMiddle3",
+	    
+	    "右薬指１" :                	"RightRing1",
+	    "右薬指２" :                	"RightRing2",
+	    "右薬指３" :                	"RightRing3",
+	    
+	    "右小指１" :                	"RightLittle1",
+	    "右小指２" :                	"RightLittle2",
+	    "右小指３" :                	"RightLittle3",
+
+        "左足IK親" :                    "LeftFootIKParent",
+        "左足ＩＫ" :                    "LeftFootIK",
+        "左つま先ＩＫ" :                "LeftToeIK",
+        "左ひじＩＫ" :	                "LeftArmIK",
+        "右足IK親" :                    "RightFootIKParent",
+        "右足ＩＫ" :                    "RightFootIK",
+        "右つま先ＩＫ" :                "RightToeIK",
+	    "右ひじＩＫ" :             		"RightArmIK",
+
+        "左腕捩" :                      "LeftArmTwist",
+        "左手捩" :                      "LeftWristTwist",
+        "右腕捩" :                      "RightArmTwist",
+        "右手捩" :                      "RightWristTwist"
+    },
+
+    "morphs" : {
+        "まばたき" :                    "Blink",
+        "まばたき左" :                  "BlinkL",
+        "まばたき右" :                  "BlinkR",
+        "ウィンク" :                    "Wink",
+        "ウィンク２" :                  "Wink2",
+        "ウィンク右" :                  "WinkR",
+        "ｳｨﾝｸ２右" :                    "Wink2R",
+        "ウィンク左" :                  "WinkL",
+        "笑い" :                        "Eyes smile",
+        "笑い左" :                      "EyeL smile",
+        "笑い右" :                      "EyeR smile",
+        "びっくり" :                    "Surprise",
+        "なごみ" :                      "Calm",
+        "はぅ" :                        "Close ><",
+        "じと目" :                      "Doubt",
+        "はちゅ目" :                    "Scared",
+        "テレ" :                        "Tele",
+        "星目" :                        "Eyes star",
+        "瞳小" :                        "Pupils small",
+        "あ" :                          "A",
+        "あ２" :                        "A2",
+        "い" :                          "I",
+        "う" :                          "U",
+        "え" :                          "E",
+        "お" :                          "O",
+        "ん" :                          "N",
+        "∧" :                           "Regret close",
+        "▲" :                           "Regret open",
+        "□" :                           "Box mouth",
+        "ワ" :                          "WA",
+        "ω" :                           "Omega smile",
+        "ω□" :                          "Omega open",
+        "にやり" :                       "Grin",
+        "にやり２" :                     "Grin2",
+        "にやり左" :                     "GrinL",
+        "にやり右" :                     "GrinR",
+        "にっこり" :                     "Smile",
+        "口角上げ" :                     "Happy",
+        "口角下げ" :                     "Sad",
+        "激怒" :                         "Fury",
+        "キッス" :                       "Kiss",
+        "広いキス" :                     "Kiss wide",
+        "真面目" :                       "Serious",
+        "真面目左" :                     "SeriousL",
+        "真面目右" :                     "SeriousR",
+        "困る" :                         "Trouble",
+        "困る左" :                       "TroubleL",
+        "困る右" :                       "TroubleR",
+        "にこり" :                       "Smily",
+        "にこり左" :                     "SmilyL",
+        "にこり右" :                     "SmilyR",
+        "怒り" :                         "Angry",
+        "怒り左" :                       "AngryL",
+        "怒り右" :                       "AngryR",
+        "上" :                           "Brows up",
+        "上左" :                         "BrowL up",
+        "上右" :                         "BrowR up",
+        "下" :                           "Brows down",
+        "下左" :                         "BrowL down",
+        "下右" :                         "BrowR down"
+    }
+  
+}
+
+
+
