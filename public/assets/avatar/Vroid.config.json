@@ -1,0 +1,113 @@
+{
+	"bones" : {
+        "Root":                     "Root",
+        "Center":                   "Center",
+        "Waist":                    "Waist",
+        "Groove":                   "Groove",
+        "Hips":                    	"J_Bip_C_Hips",
+        "Spine":                    "J_Bip_C_Spine",
+        "Chest":                  	"J_Bip_C_Chest",
+        "UpperChest":              	"J_Bip_C_UpperChest",
+        "Neck":                    	"J_Bip_C_Neck",
+        "Head":                    	"J_Bip_C_Head",
+
+        "LeftEye":                 	"J_Adj_L_FaceEye",
+        "RightEye":                	"J_Adj_R_FaceEye",
+
+        "LeftShoulder":            	"J_Bip_L_Shoulder",
+        "LeftUpperArm":            	"J_Bip_L_UpperArm",
+        "LeftLowerArm":            	"J_Bip_L_LowerArm",
+        "LeftHand":	            	"J_Bip_L_Hand",
+
+        "RightShoulder":           	"J_Bip_R_Shoulder",
+        "RightUpperArm":           	"J_Bip_R_UpperArm",
+        "RightLowerArm":           	"J_Bip_R_LowerArm",
+        "RightHand":               	"J_Bip_R_Hand",
+
+        "LeftUpperLeg":            	"J_Bip_L_UpperLeg",
+        "LeftLowerLeg":            	"J_Bip_L_LowerLeg",
+        "LeftFoot":                	"J_Bip_L_Foot",
+        "LeftToes":                 "J_Bip_L_ToeBase",
+
+        "RightUpperLeg":           	"J_Bip_R_UpperLeg",
+        "RightLowerLeg":           	"J_Bip_R_LowerLeg",
+        "RightFoot":               	"J_Bip_R_Foot",
+        "RightToes":                "J_Bip_R_ToeBase",
+
+        "LeftThumb1":       		"J_Bip_L_Thumb1",
+        "LeftThumb2":   			"J_Bip_L_Thumb2",
+        "LeftThumb3":         		"J_Bip_L_Thumb3",
+
+        "LeftIndex1":       		"J_Bip_L_Index1",
+        "LeftIndex2":   			"J_Bip_L_Index2",
+        "LeftIndex3":         		"J_Bip_L_Index3",
+        
+        "LeftMiddle1":      		"J_Bip_L_Middle1",
+        "LeftMiddle2":  			"J_Bip_L_Middle2",
+        "LeftMiddle3":        		"J_Bip_L_Middle3",
+        
+        "LeftRing1":        		"J_Bip_L_Ring1",
+        "LeftRing2":    			"J_Bip_L_Ring2",
+        "LeftRing3":          		"J_Bip_L_Ring3",
+
+        "LeftLittle1":      		"J_Bip_L_Little1",
+        "LeftLittle2":  			"J_Bip_L_Little2",
+        "LeftLittle3":        		"J_Bip_L_Little3",
+
+        "RightThumb1":      		"J_Bip_R_Thumb1",
+        "RightThumb2":  			"J_Bip_R_Thumb2",
+        "RightThumb3":        		"J_Bip_R_Thumb3",
+
+        "RightIndex1":      		"J_Bip_R_Index1",
+        "RightIndex2":  			"J_Bip_R_Index2",
+        "RightIndex3":        		"J_Bip_R_Index3",
+
+        "RightMiddle1":     		"J_Bip_R_Middle1",
+        "RightMiddle2": 			"J_Bip_R_Middle2",
+        "RightMiddle3":       		"J_Bip_R_Middle3",
+
+        "RightRing1":       		"J_Bip_R_Ring1",
+        "RightRing2":   			"J_Bip_R_Ring2",
+        "RightRing3":         		"J_Bip_R_Ring3",
+
+        "RightLittle1":     		"J_Bip_R_Little1",
+        "RightLittle2": 			"J_Bip_R_Little2",
+        "RightLittle3":       		"J_Bip_R_Little3",
+        
+        "LeftBust1":				"J_Sec_L_Bust1",
+        "LeftBust2":				"J_Sec_L_Bust2",
+        "RightBust1":				"J_Sec_R_Bust1",
+        "RightBust2":				"J_Sec_R_Bust2",
+
+        "LeftArmTwist":             "LeftArmTwist",
+        "LeftHandTwist":            "LeftHandTwist",
+        "RightArmTwist":            "RightArmTwist",
+        "RightHandTwist":           "RightHandTwist"
+
+    },
+    
+    "morphs" : {
+        "Neutral":                      "Neutral",
+        "Smile" :                       "Fun",
+        "Happy" :                       "Fun",
+        "Eyes smile" :                  "Joy",
+        "WA" :                          "Joy",
+        "Sad" :                         "Sorrow",
+        "Regret open" :                 "Sorrow",
+        "Angry" :                       "Angry",
+        "Fury" :                        "Angry",
+        "Regret close" :                "Angry",
+        "Surprise" :                    "Surprised",
+        "Scared" :                      "Surprised",
+        "Close ><" :                    "Extra",
+        "Blink" :                       "Blink",
+        "BlinkR" :                      "Blink_R",
+        "BlinkL" :                      "Blink_L",
+        "A" :                           "A",
+        "I" :                           "I",
+        "U" :                           "U",
+        "E" :                           "E",
+        "O" :                           "O"
+    }
+
+}

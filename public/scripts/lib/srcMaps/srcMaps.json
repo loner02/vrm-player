@@ -1,0 +1,16 @@
+{
+	"maps": [
+		{
+			"name":	"Unity-chan",
+			"url": "/scripts/lib/srcMaps/unity-chan.json"
+		},
+		{
+			"name":	"Mixamo",
+			"url": "/scripts/lib/srcMaps/mixamo.json"
+		},
+        {
+            "name": "Vocaloid",
+            "url": "/scripts/lib/srcMaps/vocaloid.json"
+        }
+	]
+}
