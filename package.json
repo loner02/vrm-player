@@ -7,13 +7,10 @@
     "start": "node /app/bin/www"
   },
   "dependencies": {
-    "fastify": "^3.14.1",
-    "fastify-formbody": "^5.0.0",
-    "fastify-static": "^4.0.0",
     "handlebars": "^4.7.7",
     "point-of-view": "^4.14.0",
     "express": "^4.17.1",
-    "three": "^0.126.1",
+    "three": "^1.58.1",
     "@pixiv/three-vrm": "^0.6.4",
     "@types/three": "^0.129.1",
     "socket.io": "^4.1.2",
